@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329323214784",
+    "project_id": "lab4-weatherapp-with-authen",
+    "storage_bucket": "lab4-weatherapp-with-authen.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329323214784:android:993b96182b53ee15f93a25",
+        "android_client_info": {
+          "package_name": "com.example.lab4_weatherapp_with_authen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE6yc6KYSXecbznu67vb2J8Sp_yO_DOUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
